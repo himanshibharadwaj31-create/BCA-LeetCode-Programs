@@ -1,18 +1,21 @@
-# BCA-LeetCode-Programs
-BCA LeetCode Programs
+C Programming & LeetCode Practice
 
-About This Repository
+Welcome to my C Programming Repository!
 
-This repository contains my C programming practice and LeetCode problem solutions as a BCA student.
+This repository contains my solutions to various LeetCode problems, written in C language as part of my learning journey as a BCA student.
 
-Language Used
+About Me
 
-- C Programming
+I am a BCA student learning programming and improving my problem-solving skills through practical coding.
+
+Programming Language
+
+- C
 
 Programs Included
 
-1. Two Sum
-2. [Second Program]
+1. Sum of Two Numbers
+2. Contains Duplicate
 3. Maximum Subarray
 4. Best Time to Buy and Sell Stock
 5. Missing Number
@@ -22,17 +25,22 @@ Programs Included
 9. Search Insert Position
 10. Remove Duplicates from Sorted Array
 
-Purpose
+Tools & Platforms
 
-- To improve problem-solving skills.
-- To practice C programming.
-- To understand arrays, loops, and functions.
-- To build coding experience through LeetCode.
+- LeetCode – Problem Solving
+- Acode – Code Editor
+- GitHub – Code Storage and Version Control
 
-Platform
+Learning Goals
 
-- LeetCode
-- Acode Editor
-- GitHub
+- Improve logical thinking.
+- Understand programming concepts.
+- Practice arrays, loops and operators.
+- Develop problem-solving skills.
+- Build consistency in coding.
 
-This repository represents my learning journey in C programming.
+---
+
+Thank you for visiting my repository!
+
+Learning, Practicing and Improving Every Day.
